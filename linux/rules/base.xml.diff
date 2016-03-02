@@ -1,0 +1,40 @@
+--- a	2013-05-09 17:52:16.576972832 +0200
++++ b	2013-05-09 18:03:29.975013998 +0200
+@@ -1296,6 +1296,30 @@
+         </variant>
+         <variant>
+           <configItem>
++            <name>ckp</name>
++            <description>English (programmer Colemak)</description>
++          </configItem>
++        </variant>
++        <variant>
++          <configItem>
++            <name>ckp-num</name>
++            <description>English (programmer Colemak, default number row)</description>
++          </configItem>
++        </variant>
++        <variant>
++          <configItem>
++            <name>ckp-kin</name>
++            <description>English (programmer Colemak, Kinesis)</description>
++          </configItem>
++        </variant>
++        <variant>
++          <configItem>
++            <name>ckp-num-kin</name>
++            <description>English (programmer Colemak, default number row, Kinesis)</description>
++          </configItem>
++        </variant>
++        <variant>
++          <configItem>
+             <name>dvorak</name>
+             <description>English (Dvorak)</description>
+           </configItem>
+@@ -6514,4 +6538,4 @@
+       </option>
+     </group>
+   </optionList>
+-</xkbConfigRegistry>
+\ No newline at end of file
++</xkbConfigRegistry>

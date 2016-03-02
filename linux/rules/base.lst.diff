@@ -1,0 +1,13 @@
+--- a	2013-05-09 18:29:50.111422930 +0200
++++ b	2013-05-09 18:23:55.218826132 +0200
+@@ -279,6 +279,10 @@
+   intl            us: English (US, international with dead keys)
+   alt-intl        us: English (US, alternative international)
+   colemak         us: English (Colemak)
++  ckp             us: English (programmer Colemak)
++  ckp-num         us: English (programmer Colemak, default number row)
++  ckp-kin         us: English (programmer Colemak, Kenisis)
++  ckp-num-kin     us: English (programmer Colemak, default number row, Kenisis)
+   dvorak          us: English (Dvorak)
+   dvorak-intl     us: English (Dvorak international with dead keys)
+   dvorak-alt-intl us: English (Dvorak alternative international no dead keys)
